@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c280ea4-8d3d-47b2-a8f3-116d3192fd42" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejercicio2.js" afterPath="$PROJECT_DIR$/ejercicio2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejercicio4.js" afterPath="$PROJECT_DIR$/ejercicio4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejercicio5.js" afterPath="$PROJECT_DIR$/ejercicio5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejercicio6.js" afterPath="$PROJECT_DIR$/ejercicio6.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejercicio7.js" afterPath="$PROJECT_DIR$/ejercicio7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jennifer-node.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,6 +58,7 @@
         <option value="$PROJECT_DIR$/ejercicio12.js" />
         <option value="$PROJECT_DIR$/ejercicio4.js" />
         <option value="$PROJECT_DIR$/ejercicio5.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -410,12 +408,12 @@
       <created>1441903457870</created>
       <option name="number" value="Default" />
       <updated>1441903457870</updated>
-      <workItem from="1441903459270" duration="2043000" />
+      <workItem from="1441903459270" duration="2357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2043000" />
+    <option name="totallyTimeSpent" value="2357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
@@ -545,6 +543,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4864865">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03197158">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
