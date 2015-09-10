@@ -1,5 +1,5 @@
     var net = require('net');
-    var url = process.argv[2];
+    var puerto = process.argv[2];
 
     function now(d){
        function pad(n){
@@ -17,5 +17,5 @@
       socket.end(now() + '\n');
     });
 
-    server.listen(Number(url));
+    server.listen(Number(puerto));
 

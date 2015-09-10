@@ -3,7 +3,7 @@
     var resultados	= [];
     var count		= 0;
 
-    function obtengoResultados () {
+    function getResult () {
       for (var i = 0; i < 3; i++)
         console.log(resultados[i])
     }
@@ -18,7 +18,7 @@
          resultados[index] = data.toString();
           count++;
           if (count == 3)
-            obtengoResultados()
+              getResult()
         }));
       });
     }
